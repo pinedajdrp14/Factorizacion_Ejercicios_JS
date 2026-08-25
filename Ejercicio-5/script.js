@@ -5,5 +5,5 @@ var auxiliar = a
 a = b
 b = auxiliar
 
-alert("El valor de a es " + a);
-alert("El valor de b es " + b);
+document.write("El valor de a es " + a);
+document.write("El valor de b es " + b);
